@@ -20,12 +20,6 @@ pip3 install mailtm
 
 pip3 install win10toast
 
-pip3 install subprocess
-
-pip3 install time
-
-pip3 install os
-
 -----
 
 N'oublier pas d'installer le driver du navigateur Chrome cette étape est essentiel pour que Polaris puisse fonctionner correctement.
