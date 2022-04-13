@@ -12,8 +12,6 @@ python polaris.py
 
 Si vous ne posséder pas les conditions suivantes veuillez les installer pour un fonctionnement correct du programme.
 
-Conditions :
-
 pip3 install email
 
 pip3 install selenium
