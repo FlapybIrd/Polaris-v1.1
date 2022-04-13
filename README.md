@@ -10,9 +10,9 @@ python polaris.py
 
 -----
 
-REQUIREMENTS :
+Si vous ne posséder pas les conditions suivantes veuillez les installer pour un fonctionnement correct du programme.
 
------
+Conditions :
 
 pip3 install email
 
